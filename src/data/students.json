@@ -1,0 +1,483 @@
+[
+    {
+      "name": "John Doe",
+      "age": 20,
+      "marks": 85,
+      "avgMarks": 80,
+      "rollNumber": "A102",
+      "class": "10th Grade",
+      "city": "New York",
+      "attendance": "95%"
+    },
+    {
+      "name": "Jane Smith",
+      "age": 19,
+      "marks": 78,
+      "avgMarks": 74,
+      "rollNumber": "B203",
+      "class": "10th Grade",
+      "city": "Los Angeles",
+      "attendance": "89%"
+    },
+    {
+        "name": "Kanny Smith",
+        "age": 19,
+        "marks": 78,
+        "avgMarks": 74,
+        "rollNumber": "B203",
+        "class": "10th Grade",
+        "city": "Los Angeles",
+        "attendance": "89%"
+      },
+      {
+        "name": "Frank Smith",
+        "age": 19,
+        "marks": 78,
+        "avgMarks": 74,
+        "rollNumber": "B203",
+        "class": "10th Grade",
+        "city": "Los Angeles",
+        "attendance": "89%"
+      },
+      {
+        "name": "Jane Smith",
+        "age": 19,
+        "marks": 78,
+        "avgMarks": 74,
+        "rollNumber": "B203",
+        "class": "10th Grade",
+        "city": "Los Angeles",
+        "attendance": "89%"
+      },
+      {
+        "name": "Aynk Smith",
+        "age": 19,
+        "marks": 78,
+        "avgMarks": 74,
+        "rollNumber": "B203",
+        "class": "10th Grade",
+        "city": "Los Angeles",
+        "attendance": "89%"
+      },
+      {
+        "name": "Danny Smith",
+        "age": 19,
+        "marks": 78,
+        "avgMarks": 74,
+        "rollNumber": "B000",
+        "class": "10th Grade",
+        "city": "Los Angeles",
+        "attendance": "89%"
+      },
+      {
+        "name": "Gyuni Smith",
+        "age": 19,
+        "marks": 78,
+        "avgMarks": 74,
+        "rollNumber": "B999",
+        "class": "10th Grade",
+        "city": "Los Angeles",
+        "attendance": "89%"
+      },
+      {
+        "name": "Uity Smith",
+        "age": 19,
+        "marks": 78,
+        "avgMarks": 74,
+        "rollNumber": "B555",
+        "class": "10th Grade",
+        "city": "Los Angeles",
+        "attendance": "89%"
+      },
+      {
+        "name": "Yanny Smith",
+        "age": 19,
+        "marks": 78,
+        "avgMarks": 74,
+        "rollNumber": "B277",
+        "class": "10th Grade",
+        "city": "Los Angeles",
+        "attendance": "89%"
+      },
+      {
+        "name": "Tnny Smith",
+        "age": 19,
+        "marks": 78,
+        "avgMarks": 74,
+        "rollNumber": "B277",
+        "class": "10th Grade",
+        "city": "Los Angeles",
+        "attendance": "89%"
+      },
+      {
+        "name": "Tanny Smith",
+        "age": 19,
+        "marks": 78,
+        "avgMarks": 74,
+        "rollNumber": "B277",
+        "class": "10th Grade",
+        "city": "Los Angeles",
+        "attendance": "89%"
+      },
+      {
+        "name": "Jani Smith",
+        "age": 19,
+        "marks": 78,
+        "avgMarks": 74,
+        "rollNumber": "B222",
+        "class": "10th Grade",
+        "city": "Los Angeles",
+        "attendance": "89%"
+      },
+      {
+        "name": "Pane Smith",
+        "age": 19,
+        "marks": 78,
+        "avgMarks": 74,
+        "rollNumber": "B207",
+        "class": "10th Grade",
+        "city": "Los Angeles",
+        "attendance": "89%"
+      },
+      {
+        "name": "Jane smooth",
+        "age": 21,
+        "marks": 78,
+        "avgMarks": 74,
+        "rollNumber": "B205",
+        "class": "10th Grade",
+        "city": "Los Angeles",
+        "attendance": "87%"
+      },
+      {
+        "name": "Jane ",
+        "age": 18,
+        "marks": 78,
+        "avgMarks": 74,
+        "rollNumber": "B204",
+        "class": "10th Grade",
+        "city": "Los Angeles",
+        "attendance": "88%"
+      },
+      {
+        "name": "John Doe",
+        "age": 20,
+        "marks": 85,
+        "avgMarks": 80,
+        "rollNumber": "A102",
+        "class": "10th Grade",
+        "city": "New York",
+        "attendance": "95%"
+      },
+      {
+        "name": "Jane Smith",
+        "age": 19,
+        "marks": 78,
+        "avgMarks": 74,
+        "rollNumber": "B203",
+        "class": "10th Grade",
+        "city": "Los Angeles",
+        "attendance": "89%"
+      },
+      {
+          "name": "Kanny Smith",
+          "age": 19,
+          "marks": 78,
+          "avgMarks": 74,
+          "rollNumber": "B203",
+          "class": "10th Grade",
+          "city": "Los Angeles",
+          "attendance": "89%"
+        },
+        {
+          "name": "Frank Smith",
+          "age": 19,
+          "marks": 78,
+          "avgMarks": 74,
+          "rollNumber": "B203",
+          "class": "10th Grade",
+          "city": "Los Angeles",
+          "attendance": "89%"
+        },
+        {
+          "name": "Jane Smith",
+          "age": 19,
+          "marks": 78,
+          "avgMarks": 74,
+          "rollNumber": "B203",
+          "class": "10th Grade",
+          "city": "Los Angeles",
+          "attendance": "89%"
+        },
+        {
+          "name": "Aynk Smith",
+          "age": 19,
+          "marks": 78,
+          "avgMarks": 74,
+          "rollNumber": "B203",
+          "class": "10th Grade",
+          "city": "Los Angeles",
+          "attendance": "89%"
+        },
+        {
+          "name": "Danny Smith",
+          "age": 19,
+          "marks": 78,
+          "avgMarks": 74,
+          "rollNumber": "B000",
+          "class": "10th Grade",
+          "city": "Los Angeles",
+          "attendance": "89%"
+        },
+        {
+          "name": "Gyuni Smith",
+          "age": 19,
+          "marks": 78,
+          "avgMarks": 74,
+          "rollNumber": "B999",
+          "class": "10th Grade",
+          "city": "Los Angeles",
+          "attendance": "89%"
+        },
+        {
+          "name": "Uity Smith",
+          "age": 19,
+          "marks": 78,
+          "avgMarks": 74,
+          "rollNumber": "B555",
+          "class": "10th Grade",
+          "city": "Los Angeles",
+          "attendance": "89%"
+        },
+        {
+          "name": "Yanny Smith",
+          "age": 19,
+          "marks": 78,
+          "avgMarks": 74,
+          "rollNumber": "B277",
+          "class": "10th Grade",
+          "city": "Los Angeles",
+          "attendance": "89%"
+        },
+        {
+          "name": "Tnny Smith",
+          "age": 19,
+          "marks": 78,
+          "avgMarks": 74,
+          "rollNumber": "B277",
+          "class": "10th Grade",
+          "city": "Los Angeles",
+          "attendance": "89%"
+        },
+        {
+          "name": "Tanny Smith",
+          "age": 19,
+          "marks": 78,
+          "avgMarks": 74,
+          "rollNumber": "B277",
+          "class": "10th Grade",
+          "city": "Los Angeles",
+          "attendance": "89%"
+        },
+        {
+          "name": "Jani Smith",
+          "age": 19,
+          "marks": 78,
+          "avgMarks": 74,
+          "rollNumber": "B222",
+          "class": "10th Grade",
+          "city": "Los Angeles",
+          "attendance": "89%"
+        },
+        {
+          "name": "Pane Smith",
+          "age": 19,
+          "marks": 78,
+          "avgMarks": 74,
+          "rollNumber": "B207",
+          "class": "10th Grade",
+          "city": "Los Angeles",
+          "attendance": "89%"
+        },
+        {
+          "name": "Jane smooth",
+          "age": 21,
+          "marks": 78,
+          "avgMarks": 74,
+          "rollNumber": "B205",
+          "class": "10th Grade",
+          "city": "Los Angeles",
+          "attendance": "87%"
+        },
+        {
+          "name": "Jane ",
+          "age": 18,
+          "marks": 78,
+          "avgMarks": 74,
+          "rollNumber": "B204",
+          "class": "10th Grade",
+          "city": "Los Angeles",
+          "attendance": "88%"
+        },
+        {
+            "name": "John Doe",
+            "age": 20,
+            "marks": 85,
+            "avgMarks": 80,
+            "rollNumber": "A102",
+            "class": "10th Grade",
+            "city": "New York",
+            "attendance": "95%"
+          },
+          {
+            "name": "Jane Smith",
+            "age": 19,
+            "marks": 78,
+            "avgMarks": 74,
+            "rollNumber": "B203",
+            "class": "10th Grade",
+            "city": "Los Angeles",
+            "attendance": "89%"
+          },
+          {
+              "name": "Kanny Smith",
+              "age": 19,
+              "marks": 78,
+              "avgMarks": 74,
+              "rollNumber": "B203",
+              "class": "10th Grade",
+              "city": "Los Angeles",
+              "attendance": "89%"
+            },
+            {
+              "name": "Frank Smith",
+              "age": 19,
+              "marks": 78,
+              "avgMarks": 74,
+              "rollNumber": "B203",
+              "class": "10th Grade",
+              "city": "Los Angeles",
+              "attendance": "89%"
+            },
+            {
+              "name": "Jane Smith",
+              "age": 19,
+              "marks": 78,
+              "avgMarks": 74,
+              "rollNumber": "B203",
+              "class": "10th Grade",
+              "city": "Los Angeles",
+              "attendance": "89%"
+            },
+            {
+              "name": "Aynk Smith",
+              "age": 19,
+              "marks": 78,
+              "avgMarks": 74,
+              "rollNumber": "B203",
+              "class": "10th Grade",
+              "city": "Los Angeles",
+              "attendance": "89%"
+            },
+            {
+              "name": "Danny Smith",
+              "age": 19,
+              "marks": 78,
+              "avgMarks": 74,
+              "rollNumber": "B000",
+              "class": "10th Grade",
+              "city": "Los Angeles",
+              "attendance": "89%"
+            },
+            {
+              "name": "Gyuni Smith",
+              "age": 19,
+              "marks": 78,
+              "avgMarks": 74,
+              "rollNumber": "B999",
+              "class": "10th Grade",
+              "city": "Los Angeles",
+              "attendance": "89%"
+            },
+            {
+              "name": "Uity Smith",
+              "age": 19,
+              "marks": 78,
+              "avgMarks": 74,
+              "rollNumber": "B555",
+              "class": "10th Grade",
+              "city": "Los Angeles",
+              "attendance": "89%"
+            },
+            {
+              "name": "Yanny Smith",
+              "age": 19,
+              "marks": 78,
+              "avgMarks": 74,
+              "rollNumber": "B277",
+              "class": "10th Grade",
+              "city": "Los Angeles",
+              "attendance": "89%"
+            },
+            {
+              "name": "Tnny Smith",
+              "age": 19,
+              "marks": 78,
+              "avgMarks": 74,
+              "rollNumber": "B277",
+              "class": "10th Grade",
+              "city": "Los Angeles",
+              "attendance": "89%"
+            },
+            {
+              "name": "Tanny Smith",
+              "age": 19,
+              "marks": 78,
+              "avgMarks": 74,
+              "rollNumber": "B277",
+              "class": "10th Grade",
+              "city": "Los Angeles",
+              "attendance": "89%"
+            },
+            {
+              "name": "Jani Smith",
+              "age": 19,
+              "marks": 78,
+              "avgMarks": 74,
+              "rollNumber": "B222",
+              "class": "10th Grade",
+              "city": "Los Angeles",
+              "attendance": "89%"
+            },
+            {
+              "name": "Pane Smith",
+              "age": 19,
+              "marks": 78,
+              "avgMarks": 74,
+              "rollNumber": "B207",
+              "class": "10th Grade",
+              "city": "Los Angeles",
+              "attendance": "89%"
+            },
+            {
+              "name": "Jane smooth",
+              "age": 21,
+              "marks": 78,
+              "avgMarks": 74,
+              "rollNumber": "B205",
+              "class": "10th Grade",
+              "city": "Los Angeles",
+              "attendance": "87%"
+            },
+            {
+              "name": "Jane ",
+              "age": 18,
+              "marks": 78,
+              "avgMarks": 74,
+              "rollNumber": "B204",
+              "class": "10th Grade",
+              "city": "Los Angeles",
+              "attendance": "88%"
+            }
+  ]
+  
